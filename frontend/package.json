@@ -53,7 +53,7 @@
     "vue": "^3.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.4",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-proposal-class-properties": "7.14.5",
     "@tarojs/cli": "4.0.9",
     "@tarojs/vite-runner": "4.0.9",
